@@ -49,7 +49,7 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-
+    'apps.tarefa.apps.TarefaConfig',
 ]
 
 THIRD_APPS = [
